@@ -16,7 +16,12 @@ CueFire isn't notarised by Apple yet, so a plain double-click the first time say
 
 ## Windows
 
-A Windows build will be added to the releases when it's ready.
+Requires 64-bit Windows 10 or 11. Nothing else needs installing.
+
+1. Download `CueFire-<version>-Windows.zip` from the latest release and unzip it.
+2. Move **CueFire.exe** wherever you like (for example a `CueFire` folder in Documents) and double-click it.
+
+CueFire isn't code-signed yet, so the first time Windows SmartScreen may say it "protected your PC" because the app is from an unknown publisher. Click **More info ▸ Run anyway**. You only need to do this once.
 
 ## OSC control
 
