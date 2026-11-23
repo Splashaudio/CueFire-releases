@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "New name, a list view, rearranging cues, and Go Selected Cue.",
+  "version": "1.2.0",
+  "notes": "Update notices, and settings kept in a CueFire folder.",
   "versions": {
-    "mac": "1.1.0"
+    "windows": "1.1.1"
   },
   "download": {
-    "mac": "https://github.com/Splashaudio/CueFire-releases/releases/download/v1.1.0/CueFire-1.1.0-macOS.zip",
+    "mac": "https://github.com/Splashaudio/CueFire-releases/releases/download/v1.2.0/CueFire-1.2.0-macOS.zip",
     "windows": "https://github.com/Splashaudio/CueFire-releases/releases/download/v1.1.1/CueFire-1.1.1-Windows.zip"
   },
   "page": "https://github.com/Splashaudio/CueFire-releases/releases/latest"
