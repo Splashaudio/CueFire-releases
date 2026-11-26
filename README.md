@@ -71,7 +71,14 @@ About 50 ms after each command, CueFire replies with the state of whatever it ch
 
 ### Bitfocus Companion
 
-Companion's built-in **Generic: OSC** connection can send any of the commands above. Point it at the CueFire computer's IP address and port 53100.
+There's a CueFire module for Companion (Mac or Windows). Its buttons show each cue's name and colour, light up while the cue plays, and count down the time remaining, however the cue was fired.
+
+1. Download `CueFire-Companion-module-1.0.0.tgz` from [Releases](https://github.com/Splashaudio/CueFire-releases/releases/latest).
+2. In Companion, go to **Modules ▸ Import module package** and choose the file.
+3. Add a **CueFire** connection. Enter the address of the CueFire computer (`127.0.0.1` if it's the same one) and port 53100.
+4. Drag buttons from **Presets ▸ Cues** onto your pages.
+
+The module needs Companion 5 or later. You can also use Companion's built-in **Generic: OSC** connection to send any of the commands above.
 
 ## MIDI
 
