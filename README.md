@@ -4,6 +4,20 @@ CueFire is an app for firing sound effects and audio cues in live productions. C
 
 This repository holds the downloadable builds. **Get the latest version from [Releases](https://github.com/Splashaudio/CueFire-releases/releases/latest).**
 
+## Screenshots
+
+**Button grid:** each cue is a coloured button showing its number, name and length.
+
+![CueFire button grid](screenshots/buttons.png)
+
+**List view:** the same cues as a list, with the audio file under each name.
+
+![CueFire list view](screenshots/list.png)
+
+**Editing a cue:** set the name, colour, in and out points, level, and what happens when it fires.
+
+![CueFire cue editor](screenshots/edit.png)
+
 ## Mac
 
 Requires macOS 14 (Sonoma) or later on an Apple silicon Mac (M1 or newer).
